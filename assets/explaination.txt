@@ -1,0 +1,2 @@
+In order for octo.pack() to work, a folder in the dist/ folder must have a matching folder here.
+See http://stackoverflow.com/questions/40972109/octopack-wont-package-ng-build-output-when-there-are-subfolders
